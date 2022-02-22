@@ -1,3 +1,3 @@
 # Obito-Virtual-Assistant
 
-This is virtual assistant can perform losts of task which help to reduce human work like and it work on totally voice even if you want to close program you have to say shutdown obito or stop working.
+This is virtual assitant which can perform serveral command by user voice, like playing music, open you website by telling name and the assiatant can open all desktop application by just command,  Inc/Dec volume brightness and many more task can perform by the assistant.
