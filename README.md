@@ -3,6 +3,7 @@
 Obito Virtual Assistant is personal assistant which can help to reduce workload of user, its perform all the task by user voice only (No keyboard needed).
 
 Types of thing Obito can Do.
+
 0. when you open application first obito wish you and ask you to give command. obito wish you according to morning, evening and night. 
 1. Obito can open close any application by giving command like open Youtube, open github, close chrome.
 2. Obito is capable to send email to your friend 
